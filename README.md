@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou Matheus Pais 👋
 
-<!--
-**gpdax/gpdax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Atualmente Aprendendo
 
-Here are some ideas to get you started:
+Atualmente, estou no 7º período de Ciência da Computação e me aprofundando em Desenvolvimento Web Full Stack, com foco em frameworks como React e Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projetos
+
+Confira meus projetos em [username.github.io](https://gpdax.github.io).
+
+## 📫 Contato
+
+- **LinkedIn:** [Seu LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/matheus-pais-de-almeida-0b22a2327/))
+- **GitHub:** [Seu GitHub]([https://github.com/seu-usuario](https://github.com/gpdax))
+
+Obrigado por visitar meu perfil!
+
