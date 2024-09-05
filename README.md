@@ -10,7 +10,7 @@ Confira meus projetos em [username.github.io](https://gpdax.github.io).
 
 ## 📫 Contato
 
-**LinkedIn:** [Meu LinkedIn](https://www.llinkedin.com/in/matheuspais0b22a2327)
+**LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/matheuspais0b22a2327)
 
 Obrigado por visitar meu perfil!
 
