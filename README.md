@@ -1,8 +1,9 @@
-# Olá, eu sou Matheus Pais 👋
+👋 Olá, eu sou o Matheus Pais
 
-## 📚 Atualmente Aprendendo
-
-Atualmente, estou no 7º período de Ciência da Computação e me aprofundando em Desenvolvimento Web Full Stack, com foco em frameworks como React e Node.js.
+🎓 Recém-graduado em Ciência da Computação (UniFil).
+💻 Experiência em Java, Python, análise de dados e backend.
+📊 Interessado em Inteligência Artificial e Ciência de Dados.
+🚀 Sempre aprendendo e buscando novos desafios em tecnologia.
 
 ## 💻 Projetos
 
