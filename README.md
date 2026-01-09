@@ -1,8 +1,8 @@
 👋 Olá, eu sou o Matheus Pais
 
-🎓 Recém-graduado em Ciência da Computação (UniFil).
+🎓 Recém-graduado em Ciência da Computação (UniFil)
 💻 Desenvolvedor com interesse em Frontend e Backend, com breve experiência em Java e Python
-📊 Desenvolvendo competências em Frontend com HTML, CSS, JavaScript, React e Vue.js.
+📊 Desenvolvendo competências em Frontend com HTML, CSS, JavaScript, React e Vue.js
 
 ## 💻 Portfólio
 
