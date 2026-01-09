@@ -5,9 +5,9 @@
 📊 Interessado em Inteligência Artificial e Ciência de Dados.
 🚀 Sempre aprendendo e buscando novos desafios em tecnologia.
 
-## 💻 Projetos
+## 💻 Portfólio
 
-Confira meus projetos em [username.github.io](https://gpdax.github.io).
+Confira meu portólio em [username.github.io](https://gpdax.github.io).
 
 ## 📫 Contato
 
