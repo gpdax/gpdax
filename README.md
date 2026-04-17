@@ -1,17 +1,42 @@
-👋 Olá, eu sou o Matheus Pais
+# 👋 Matheus Pais
 
-🎓 Recém-graduado em Ciência da Computação (UniFil)  
-💻 Desenvolvedor com interesse em Frontend e Backend, com breve experiência em Java e Python  
-📊 Desenvolvendo competências em Frontend com HTML, CSS, JavaScript, React e Vue.js
+💻 Desenvolvedor Full Stack (Frontend foco)  
+🎓 Ciência da Computação — UniFil  
+📍 Londrina - PR | Open to work  
 
+---
 
-## 💻 Portfólio
+🚀 JavaScript | React | Python | Django | PHP
 
-Confira meu portólio em [username.github.io](https://gpdax.github.io).
+Desenvolvo interfaces web modernas e interativas, com foco em frontend e boas práticas.
+
+---
+
+## ⭐ Projetos em destaque
+
+### 🧮 Calculator
+Calculadora web interativa desenvolvida com JavaScript.
+
+🔗 Live: https://gpdax.github.io/Calculator/  
+🔗 Código: https://github.com/gpdax
+
+---
+
+### 🎨 Etch-a-Sketch
+Aplicação interativa de desenho no navegador.
+
+🔗 Live: https://gpdax.github.io/Etch-A-Sketch/  
+🔗 Código: https://github.com/gpdax
+
+---
+
+## 🌐 Portfólio
+
+🔗 https://gpdax.github.io
+
+---
 
 ## 📫 Contato
 
-**LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/matheuspais0b22a2327)
-
-Obrigado por visitar meu perfil!
-
+💼 LinkedIn: linkedin.com/in/matheuspais0b22a2327  
+💻 GitHub: github.com/gpdax  
