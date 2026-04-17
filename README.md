@@ -18,7 +18,7 @@ Desenvolvo interfaces web modernas e interativas, com foco em frontend e boas pr
 Calculadora web interativa desenvolvida com JavaScript.
 
 🔗 Live: https://gpdax.github.io/Calculator/  
-🔗 Código: https://github.com/gpdax](https://github.com/gpdax/Calculator
+🔗 Código: https://github.com/gpdax/Calculator  
 
 ---
 
@@ -26,7 +26,7 @@ Calculadora web interativa desenvolvida com JavaScript.
 Aplicação interativa de desenho no navegador.
 
 🔗 Live: https://gpdax.github.io/Etch-A-Sketch/  
-🔗 Código: https://github.com/gpdax](https://github.com/gpdax/Etch-A-Sketch
+🔗 Código: https://github.com/gpdax/Etch-A-Sketch  
 
 ---
 
@@ -39,4 +39,4 @@ Aplicação interativa de desenho no navegador.
 ## 📫 Contato
 
 💼 LinkedIn: linkedin.com/in/matheuspais0b22a2327  
-💻 GitHub: github.com/gpdax  
+💻 GitHub: https://github.com/gpdax  
