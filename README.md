@@ -4,7 +4,7 @@
 
 🚀 JavaScript | React | Python | Django | PHP
 
-Desenvolvo interfaces web modernas e interativas, com foco em frontend e boas práticas.
+Sou desenvolvedor de software, com foco em desenvolvimento web. Atualmente, desenvolvo interfaces web. Busco oportunidades como desenvolvedor Frontend ou Full Stack, onde possa aplicar e evoluir minhas habilidades.
 
 ---
 
