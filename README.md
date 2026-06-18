@@ -33,5 +33,5 @@ Jogo de xadrez desenvolvido em Python e Pygame. Implementação da lógica de mo
 
 ## 📫 Contato
 
-💼 LinkedIn: linkedin.com/in/matheuspais0b22a2327  
+💼 LinkedIn: www.linkedin.com/in/matheuspais0b22a2327
 💻 GitHub: https://github.com/gpdax  
