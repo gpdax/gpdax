@@ -19,6 +19,11 @@ Aplicação interativa de desenho no navegador.
 🔗 Código: https://github.com/gpdax/Etch-A-Sketch  
 
 ---
+### ♟️ Easy Chess
+Jogo de xadrez desenvolvido em Python e Pygame. Implementação da lógica de movimentação de todas as peças, validação de jogadas, capturas e regras fundamentais do xadrez em um tabuleiro 8x8 para dois jogadores.
+
+🔗 Código: https://github.com/computacao-aplicada/link-RVsilva21
+
 
 ## 🌐 Portfólio
 
