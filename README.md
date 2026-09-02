@@ -2,22 +2,16 @@
 
 💻 Desenvolvedor Full Stack
 
+Sou desenvolvedor de software, com foco em desenvolvimento web utilizando JavaScript e React. Atualmente, desenvolvo interfaces web. Busco oportunidades como desenvolvedor Frontend ou Full Stack, onde posso aplicar e evoluir minhas habilidades.
+
 ## 🚀 Tecnologias
 
 **💻 Linguagens:** Python · Java · JavaScript · PHP
-
 **🎨 Frontend:** HTML · CSS · React · Vite
-
 **⚙️ Backend:** Django · Laravel
-
 **🗄️ Banco de Dados:** MySQL · PostgreSQL
-
 **📊 Dados:** Pandas · NumPy · Matplotlib
-
 **🛠️ Ferramentas:** Git · Docker · Node.js
-
-
-Sou desenvolvedor de software, com foco em desenvolvimento web utilizando JavaScript e React. Atualmente, desenvolvo interfaces web. Busco oportunidades como desenvolvedor Frontend ou Full Stack, onde posso aplicar e evoluir minhas habilidades.
 
 ---
 
