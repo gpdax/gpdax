@@ -49,3 +49,4 @@ Jogo de xadrez desenvolvido em Python e Pygame. Implementação da lógica de mo
 
 💼 LinkedIn: https://www.linkedin.com/in/matheuspais0b22a2327  
 💻 GitHub: https://github.com/gpdax
+📧 [Email](mailto:mathpdalmeida3@gmail.com)
