@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Web | Front-end & Full Stack
 
-Sou desenvolvedor de software, com foco em desenvolvimento web utilizando JavaScript e React. Atualmente, desenvolvo interfaces web. Busco oportunidades como desenvolvedor Frontend, Full Stack ou suporte de ti, onde posso aplicar e evoluir minhas habilidades.
+Sou desenvolvedor de software, com foco em desenvolvimento web utilizando JavaScript e React. Atualmente, desenvolvo interfaces web. Busco oportunidades nas áreas de Desenvolvimento Front-end, Full Stack ou Suporte de TI, onde posso aplicar e evoluir minhas habilidades.
 
 ## 🚀 Tecnologias
 
