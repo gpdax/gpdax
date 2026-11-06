@@ -1,6 +1,6 @@
 # 👋 Matheus Almeida
 
-💻 Desenvolvedor Full Stack
+💻 Desenvolvedor Web | Front-end & Full Stack
 
 Sou desenvolvedor de software, com foco em desenvolvimento web utilizando JavaScript e React. Atualmente, desenvolvo interfaces web. Busco oportunidades como desenvolvedor Frontend, Full Stack ou suporte de ti, onde posso aplicar e evoluir minhas habilidades.
 
