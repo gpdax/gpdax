@@ -32,8 +32,6 @@ Aplicação interativa de desenho no navegador.
 ---
 
 
----
-
 ## 🌐 Portfólio
 
 🔗 https://gpdax.github.io
