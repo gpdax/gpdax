@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Full Stack
 
-Sou desenvolvedor de software, com foco em desenvolvimento web utilizando JavaScript e React. Atualmente, desenvolvo interfaces web. Busco oportunidades como desenvolvedor Frontend ou Full Stack, onde posso aplicar e evoluir minhas habilidades.
+Sou desenvolvedor de software, com foco em desenvolvimento web utilizando JavaScript e React. Atualmente, desenvolvo interfaces web. Busco oportunidades como desenvolvedor Frontend, Full Stack ou suporte de ti, onde posso aplicar e evoluir minhas habilidades.
 
 ## 🚀 Tecnologias
 
@@ -31,11 +31,6 @@ Aplicação interativa de desenho no navegador.
 
 ---
 
-### ♟️ Easy Chess
-
-Jogo de xadrez desenvolvido em Python e Pygame. Implementação da lógica de movimentação de todas as peças, validação de jogadas, capturas e regras fundamentais do xadrez em um tabuleiro 8x8 para dois jogadores.
-
-🔗 Código: https://github.com/computacao-aplicada/link-RVsilva21
 
 ---
 
